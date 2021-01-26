@@ -1,1 +1,0 @@
-innerHTML("Olá mundo");
